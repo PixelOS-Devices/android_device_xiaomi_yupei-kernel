@@ -1,0 +1,18 @@
+#+TITLE: Kernel Prebuilts for Xiaomi Pad 8
+
+* Table of contents
+:PROPERTIES:
+:TOC:
+:END:
+:CONTENTS:
+- [[#about][About]]
+- [[#source][Source]]
+:END:
+
+* About
+
+This is a repository that holds the kernel prebuilts for the Xiaomi Pad 8.
+
+* Source
+
+These prebuilts are built from the [[https://github.com/xiaomi-pad-8-development/android_kernel_xiaomi_yupei][syd kernel]] with [[https://github.com/sidharthify/auto][auto]].
